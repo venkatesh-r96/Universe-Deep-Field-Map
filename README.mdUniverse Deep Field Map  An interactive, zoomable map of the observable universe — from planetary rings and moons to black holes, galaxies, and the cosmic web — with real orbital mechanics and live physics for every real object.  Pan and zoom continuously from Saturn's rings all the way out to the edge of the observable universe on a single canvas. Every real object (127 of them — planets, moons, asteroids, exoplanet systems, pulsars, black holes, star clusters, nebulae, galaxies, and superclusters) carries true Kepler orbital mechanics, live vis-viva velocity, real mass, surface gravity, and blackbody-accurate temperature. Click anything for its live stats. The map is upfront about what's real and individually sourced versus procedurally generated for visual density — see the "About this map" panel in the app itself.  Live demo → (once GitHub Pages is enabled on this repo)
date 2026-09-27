@@ -1,0 +1,7 @@
+Universe Deep Field Map
+
+An interactive, zoomable map of the observable universe — from planetary rings and moons to black holes, galaxies, and the cosmic web — with real orbital mechanics and live physics for every real object.
+
+Pan and zoom continuously from Saturn's rings all the way out to the edge of the observable universe on a single canvas. Every real object (127 of them — planets, moons, asteroids, exoplanet systems, pulsars, black holes, star clusters, nebulae, galaxies, and superclusters) carries true Kepler orbital mechanics, live vis-viva velocity, real mass, surface gravity, and blackbody-accurate temperature. Click anything for its live stats. The map is upfront about what's real and individually sourced versus procedurally generated for visual density — see the "About this map" panel in the app itself.
+
+Live demo → (once GitHub Pages is enabled on this repo)
